@@ -14,7 +14,7 @@ const config = {
   url: 'https://test.korzh.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/easydocs/',
+  baseUrl: '/easyquery/docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -34,7 +34,7 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -63,21 +63,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'easyquery/intro',
+            docId: 'intro',
             position: 'left',
             label: 'EasyQuery',
-          },
-          {
-            type: 'doc',
-            docId: 'easyreport/intro',
-            position: 'left',
-            label: 'EasyReport',
-          },
-          {
-            type: 'doc',
-            docId: 'localizer/intro',
-            position: 'left',
-            label: 'Localizer',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
