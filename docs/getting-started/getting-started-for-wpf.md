@@ -1,3 +1,7 @@
+---
+slug: wpf
+---
+
 # Getting started for WPF
 
 > __NB__: The easiest way to start getting acquainted with EasyQuery framework is to install and launch our demo projects available on [GitHub](https://github.com/easyquery/Net4Samples). You can clone that repository with samples, [download it](https://github.com/easyquery/Net4Samples/archive/master.zip) as a ZIP archive or even <button>[Open it in Visual Studio](git-client://clone?repo=https%3A%2F%2Fgithub.com%2Feasyquery%2FNet4Samples)</button> right away!
