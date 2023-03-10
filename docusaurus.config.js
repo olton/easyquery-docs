@@ -71,7 +71,7 @@ const config = {
           {
             href: 'https://test.korzh.com',
             label: 'Home',
-            position: 'right',
+            position: 'left',
           },
           {
             href: 'https://github.com/olton/easyquery-docs',
