@@ -59,6 +59,8 @@ const config = {
         logo: {
           alt: 'My Site Logo',
           src: 'img/korzhbw.png',
+          href: 'https://test.korzh.com/',
+          target: '_self',
         },
         items: [
           {
