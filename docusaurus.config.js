@@ -69,12 +69,6 @@ const config = {
             position: 'left',
             label: 'EasyQuery',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://test.korzh.com',
-            label: 'Home',
-            position: 'left',
-          },
           {
             href: 'https://github.com/olton/easyquery-docs',
             label: 'GitHub',
